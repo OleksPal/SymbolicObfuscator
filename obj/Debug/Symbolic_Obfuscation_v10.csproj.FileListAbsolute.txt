@@ -1,0 +1,10 @@
+C:\Users\Oleksandr\source\repos\Symbolic_Obfuscation_v10\bin\Debug\Symbolic_Obfuscation_v10.exe.config
+C:\Users\Oleksandr\source\repos\Symbolic_Obfuscation_v10\bin\Debug\Symbolic_Obfuscation_v10.exe
+C:\Users\Oleksandr\source\repos\Symbolic_Obfuscation_v10\bin\Debug\Symbolic_Obfuscation_v10.pdb
+C:\Users\Oleksandr\source\repos\Symbolic_Obfuscation_v10\obj\Debug\Symbolic_Obfuscation_v10.csprojAssemblyReference.cache
+C:\Users\Oleksandr\source\repos\Symbolic_Obfuscation_v10\obj\Debug\Symbolic_Obfuscation_v10.Properties.Resources.resources
+C:\Users\Oleksandr\source\repos\Symbolic_Obfuscation_v10\obj\Debug\Symbolic_Obfuscation_v10.csproj.GenerateResource.cache
+C:\Users\Oleksandr\source\repos\Symbolic_Obfuscation_v10\obj\Debug\Symbolic_Obfuscation_v10.csproj.CoreCompileInputs.cache
+C:\Users\Oleksandr\source\repos\Symbolic_Obfuscation_v10\obj\Debug\Symbolic_Obfuscation_v10.exe
+C:\Users\Oleksandr\source\repos\Symbolic_Obfuscation_v10\obj\Debug\Symbolic_Obfuscation_v10.pdb
+C:\Users\Oleksandr\source\repos\Symbolic_Obfuscation_v10\obj\Debug\Obfuscation.Form1.resources
